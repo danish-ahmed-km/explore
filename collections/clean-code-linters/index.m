@@ -1,5 +1,5 @@
----
-items:
+fuck\u
+zaxis\~
  - standard/standard
  - eslint/eslint
  - jshint/jshint
